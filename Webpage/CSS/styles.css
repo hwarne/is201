@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: fantasy;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: blanchedalmond;
+}
+img{
+    border: 2px solid green;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+.imgcenter {
+    display:block;
+
+}
+.rizz{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+    background-color: crimson;
+    border: dashed blue 5px;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 600;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
